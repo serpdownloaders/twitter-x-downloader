@@ -12,15 +12,15 @@ Twitter X Downloader is a browser extension built for users who want a simpler w
 
 ## Links
 
-- 🚀 Get it here: [Twitter X Downloader](https://serp.ly/twitter-x-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/twitter-x-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/twitter-x-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/twitter-x-downloader/issues)
+- ðŸš€ Get it here: [Twitter X Downloader](https://serp.ly/twitter-x-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/twitter-x-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/twitter-x-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/twitter-x-downloader/issues)
 
 ## Preview
 
-![Twitter X Downloader workflow preview](assets/workflow-preview.svg)
+![Twitter X Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
