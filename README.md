@@ -137,22 +137,22 @@ Start here: [https://serp.ly/twitter-x-downloader](https://serp.ly/twitter-x-dow
 
 ## FAQ
 
-**What kinds of content can I download from X**  
+**What kinds of content can I download from X?**  
 Videos, images, and post text from supported X pages.
 
-**What file formats are used**  
+**What file formats are used?**  
 Videos are saved as MP4, images are saved in the source format when available, and post text is exported as TXT.
 
-**Can I bulk-download everything visible**  
+**Can I bulk-download everything visible?**  
 Yes. The extension supports bulk export for content currently visible on the page.
 
-**Do I need to use an external website or bot**  
+**Do I need to use an external website or bot?**  
 No. Everything runs directly in the browser extension.
 
-**Where are files saved**  
+**Where are files saved?**  
 They are saved to your default Downloads location.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
