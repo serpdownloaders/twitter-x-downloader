@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Twitter X Downloader helps you save publicly accessible X videos, clips, and media for offline viewing and reference. It is designed for a fast local-first workflow so teams can keep research, client examples, and archives organized without relying on live links.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "twitter-x-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Twitter X Downloader",
+  "version": "0.0"
+}
