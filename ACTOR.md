@@ -1,4 +1,4 @@
-# Twitter X Downloader (Browser Extension)
+# Twitter X Downloader
 
 > Download videos, images, and post text from X in one browser workflow.
 
